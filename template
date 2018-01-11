@@ -1,0 +1,33 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[croatian]{babel}
+\usepackage{listings}
+
+\title{Izrada ispita}
+\author{Ivica Pero}
+\date{6.9.2018}
+\institute{Valhala}
+
+  \usetheme{Berlin}    
+  \usecolortheme{whale}
+  \usefonttheme{professionalfonts}  
+  \setbeamertemplate{navigation symbols}{}
+  \setbeamertemplate{caption}[numbered]
+
+
+\begin{document}
+	\frame {
+                \titlepage
+        }
+        \begin{frame}
+                \frametitle{}
+        \end{frame}
+        \begin{frame}
+                \frametitle{}
+        \end{frame}
+        \begin{frame}
+                \frametitle{}
+        \end{frame}
+
+\end{document}
